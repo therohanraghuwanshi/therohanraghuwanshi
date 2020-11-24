@@ -8,7 +8,7 @@
 
 - 👨🏻‍🎓 I’m a student of Computer science and engineering at **Medicaps University, Indore (M.P.).**
 
-- 📚 I’m currently learning **Nodejs, React, Angular and Machine Learning**
+- 📚 I’m currently learning **Nodejs, Angular and Machine Learning**
 
 - 🤝 I’m looking to collaborate on **Web Applications and Front-end**
 
