@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking to collaborate on **Web Applications and Front-end**
 
-- 💻 All of my projects are available at [github.com/rohanraghuwanshi](github.com/rohanraghuwanshi)
+- 💻 All of my projects are available at [github.com/rohanraghuwanshi](https://github.com/rohanraghuwanshi?tab=repositories)
 
 - 💬 Ask me about **Python, Django, Frontend Development**
 
