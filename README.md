@@ -8,11 +8,11 @@
 
 - 👨🏻‍🎓 I’m a student of Computer science and engineering at **Medicaps University, Indore (M.P.).**
 
-- 🤝 I’m looking to collaborate on **Web Applications and Front-end**
+- 🤝 I’m looking to collaborate on **Web3 Applications and Everything else in the tech**
 
-- 💻 All of my projects are available at [github.com/rohanraghuwanshi](https://github.com/rohanraghuwanshi?tab=repositories)
+- 💻 Most of my projects are available at [github.com/rohanraghuwanshi](https://github.com/rohanraghuwanshi?tab=repositories)
 
-- 💬 Ask me about **Python, Django, Frontend Development**
+- 💬 Ask me about **Blockchain, NodeJs, Solidity, Python, Django, Frontend Development**
 
 - 📩 How to reach me **rohan.emailme@gmail.com**
 
