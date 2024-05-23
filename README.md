@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Blockchain, NodeJs, Solidity, Python, Django, Frontend Development**
 
-- 📩 How to reach me **rohan.emailme@gmail.com**
+- 📩 How to reach me **rohanraghuvanshi001@gmail.com**
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=rohanraghuwanshi&show_icons=true" alt="rohanraghuwanshi" /></p>
 
