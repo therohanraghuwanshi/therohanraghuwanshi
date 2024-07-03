@@ -18,9 +18,6 @@
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=rohanraghuwanshi&show_icons=true" alt="rohanraghuwanshi" /></p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanraghuwanshi&layout=compact&hide=html" alt="rohanraghuwanshi" /></p>
-
-
  ## Thank you
 
 <p align="center">
