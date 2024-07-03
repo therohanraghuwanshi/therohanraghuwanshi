@@ -6,7 +6,7 @@
 
 ### About me 
 
-- 👨🏻‍🎓 I’m a fullstack blockchain developer based living in Indore (M.P.).
+- 👨🏻‍🎓 I’m a fullstack blockchain developer living in Indore (M.P.).
 
 - 🤝 I’m looking to collaborate on **Web3 Applications and Everything else in the tech**
 
