@@ -16,8 +16,6 @@
 
 - 📩 How to reach me **rohanraghuvanshi001@gmail.com**
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=rohanraghuwanshi&show_icons=true" alt="rohanraghuwanshi" /></p>
-
  ## Thank you
 
 <p align="center">
