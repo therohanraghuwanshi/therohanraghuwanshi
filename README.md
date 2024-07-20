@@ -16,8 +16,6 @@
 
 - 📩 How to reach me **rohanraghuvanshi001@gmail.com**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohanraghuwanshi&show_icons=true&locale=en" alt="rohanraghuwanshi" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohanraghuwanshi&" alt="rohanraghuwanshi" /></p>
 
  ## Thank you
