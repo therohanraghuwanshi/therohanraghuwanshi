@@ -10,9 +10,9 @@
 
 - 🤝 I’m looking to collaborate on **Web3 Applications and Everything else in the tech**
 
-- 💻 Most of my projects are available at [github.com/rohanraghuwanshi](https://github.com/therohanraghuwanshi?tab=repositories)
+- 💻 Most of my projects are available at [github.com/therohanraghuwanshi](https://github.com/therohanraghuwanshi?tab=repositories)
 
-- 💬 Ask me about **Blockchain, NodeJs, Solidity, Python, Django, Frontend Development**
+- 💬 Ask me about **EVM Based Blockchains and Solana, NodeJs, Solidity, Python, Django, Frontend Development, Rust**
 
 - 📩 How to reach me **rohanraghuvanshi001@gmail.com**
 
