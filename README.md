@@ -16,7 +16,7 @@
 
 - 📩 How to reach me **rohanraghuvanshi001@gmail.com**
 
-[![therohanraghuwanshi stats](https://streak-stats.demolab.com/?user=therohanraghuwanshi&theme=dark)](https://git.io/streak-stats)
+<p><img align="center" src="https://streak-stats.demolab.com/?user=therohanraghuwanshi&theme=dark" alt="therohanraghuwanshi" /></p>
 
  ## Thank you
 
